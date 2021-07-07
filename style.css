@@ -1,0 +1,44 @@
+.gallery img{
+	width: 100%;
+}
+p{
+	font-family: sans-serif;
+	font-color:blue;
+	font-style:inherit;
+}  s
+h2{
+	font-size: 30px;
+	font-family: helvetica,sans-serif;
+	color:cornflowerblue;
+	font-style: italic;
+}
+h4{
+	font-size: 20px;
+	font-family: helvetica,sans-serif;
+	color:cornflowerblue;
+	font-style: italic;
+}
+#MENU{
+      width:100%;
+      height:40px;
+      background-color: cornflowerblue;
+      padding-top: 12px;
+}
+
+#MENU a{
+      color:white;
+      font-family: Helvetica, sans-serif;
+      font-size: 18px;
+      text-decoration:none;
+      font-weight: 800px;
+      background-color:cornflowerblue;
+      
+      padding-left: 30px;
+      padding-right: 30px;
+      padding:30px;
+
+}
+
+#MENU a:hover{
+       color: #5077bd;
+}
